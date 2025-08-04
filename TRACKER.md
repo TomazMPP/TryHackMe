@@ -6,8 +6,6 @@ Daily report with everything I studied or completed, organized by date, difficul
 ## Format
 Each entry indicates my streak, the challenges completed, and a completion indicator.
 
----
-
 ## Legend
 - ✅ Completed
 - ⭐ Favorite/Notable
