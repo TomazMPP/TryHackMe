@@ -13,6 +13,9 @@ This repo serves as a living archive of my cybersecurity training on the TryHack
 - Note key takeaways and commands
 - Help others who might be stuck or just getting started
 
+> [!IMPORTANT]  
+> The goal of this repository and more specifically this markdown file is not to speed run ou focus on the gamify part of TryHackMe, but to track consistency and learning.
+
 ---
 
 ## 🧭 Structure
@@ -20,27 +23,27 @@ This repo serves as a living archive of my cybersecurity training on the TryHack
 The repository is organized by categories:
 ```
 ├── Images/
-│
-├── Learning_Paths/
-│ ├── PreSecurity/
-│ ├── Complete_Beginner/
-│ ├── Junior_Penetration_Tester/
 │ └── ...
 │
 ├── Rooms/
+│ ├── Info/
 │ ├── Easy/
 │ ├── Medium/
 │ ├── Hard/
 │ └── ...
 │
-├── Challenges/
+├── CTFs&Challenges/
 │ ├── Crypto/
 │ ├── Web/
 │ ├── Forensics/
 │ └── ...
 │
+├── Writeups/
+│ └── ...
+│
 ├── Notes/
 │ └── Commands, Cheatsheets, Tools.md
+│ └── ...
 │
 └── TRACKER.md
 │
