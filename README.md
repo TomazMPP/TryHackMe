@@ -65,14 +65,14 @@ Each folder includes:
 
 ## 📊 My Journey & Analytics
 
-### 🔹 [`tracker.md`](./tracker.md)
+### 🔹 [`tracker.md`](./TRACKER.md)
 Daily report with everything I studied or completed, organized by date, difficulty, and challenge type (CTF, room, vulnerability, etc.). Each entry indicates my streak, the challenges completed, and a completion indicator..
 
-### 🔸 [`weekly.md`](./weekly.md)
+### 🔸 [`weekly.md`](./WEEKLY.md)
 Weekly summary of the **TryHackMe League**, where I record my performance and weekly ranking. My goal is to consistently outperform everyone.
 
 
-### ▫️[`analytics.md`](./analytics.md)
+### ▫️[`analytics.md`](./ANALYTICS.md)
 A detailed timeline of my overall performance. Includes:
 
 - Current and historical rankings (Global and Brazil)

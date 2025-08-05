@@ -24,6 +24,7 @@ A detailed timeline of my overall performance. This file is a mix of raw data an
 |Date                       |      All Time|      All Time|       Monthly|       Monthly|Points    | Rooms     |
 |:--------------------------|-------------:|-------------:|-------------:|-------------:|---------:| --------: |
 |                           |        Global|        Brazil|        Global|        Brazil|          |           | 
+| Aug &nbsp; 5, 2025        |         #359130 |           #6645 |         #12274|          #224 | ?  |       23 |
 | Aug &nbsp; 4, 2025        |         #370940 |           #6884 |         #10366|          #191 | ?  |       22 |
 
 ---

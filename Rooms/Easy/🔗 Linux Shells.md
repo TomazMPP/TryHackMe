@@ -1,7 +1,7 @@
 # 🔗 Linux Shells 
 **📅 August 4, 2025 — Day 9**
 
-> *Discover the "Power" in PowerShell and learn the basics.*
+> *Learn about scripting and the different types of Linux shells..*
 
 [🔗 Access the room on TryHackMe](https://tryhackme.com/room/linuxshells)
 
