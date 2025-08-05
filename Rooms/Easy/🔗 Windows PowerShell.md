@@ -19,8 +19,9 @@ Understand the basic structure of PowerShell’s language.
 Learn and run some basic PowerShell commands.
 Understand PowerShell’s many applications in the cyber security industry.
 
-## Questions
 ---
+
+## Questions
 
 1. **What do we call the advanced approach used to develop PowerShell?**  <br />
 `object-oriented`
