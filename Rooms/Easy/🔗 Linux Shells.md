@@ -52,7 +52,7 @@ You may have seen hacking scenes in movies that show cool terminals with many co
    `under the table`
 
 # Completed
-![Linux Shells](https://raw.githubusercontent.com/TomazMPP/TryHackMe/refs/heads/main/Images/completed-linuxshell.png)
+![Linux Shells](https://raw.githubusercontent.com/TomazMPP/TryHackMe/refs/heads/main/Images/completed-linux-shells.png)
 
 
 
