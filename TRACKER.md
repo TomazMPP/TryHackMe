@@ -17,15 +17,12 @@ Each entry indicates my streak, the challenges completed, and a completion indic
 
 ## 2025
 
-
-<details>
-<summary>August</summary>
+### August
 
 |Streak |Day of the Month      |Hard                                |Medium                                             | Easy                                             |
 |:-----:|:--------:|:-----------------------------------|:--------------------------------------------------|:-------------------------------------------------|
 |9    |4         ||| ✅🔗 [Windows PowerShell](https://github.com/TomazMPP/TryHackMe/blob/main/Rooms/Easy/%F0%9F%94%97%20Windows%20PowerShell.md) <br /> ✅🔗 [Linux Shells](https://github.com/TomazMPP/TryHackMe/blob/main/Rooms/Easy/%F0%9F%94%97%20Linux%20Shells.md) <br />  |
 
-</details>
 
 
 ---
